@@ -81,5 +81,15 @@ Day 14
 2. Continued Logistic Regression as a Neural Network by Andrew Ng's; Python Vectorization, practice questions, programming assignments
 3. Inspired by @Erika Yoon, I decided to write my workout routine here too; kickboxing and yoga
 
-
+## 7/11/2019
+Day 15:
+1.  Continued with Andrew Ng's course; Week 3. Shallow Neural Networks.
+2.  Initiated and started a discussion about our kids and a possible project in #sg_mom-is-wow with @Helena Barmer and @Eileen after corresponded with @Palak.Udacity
+3.  Organized times for virtual meet-ups with #sg_mom-is-wow
+4.   Watched 3 videos of Geoffrey Hinton:
+https://www.youtube.com/watch?v=zl99IZvW7rE
+https://www.youtube.com/watch?v=BWIV5xQoYbA
+https://www.youtube.com/watch?v=-eyhCTvrEtE&t=581s
+5.   I am taking a little pause, a break from acknowledging other scholars today so they can really focus on their work and study
+6.  Yoga practice
 
