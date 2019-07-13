@@ -93,3 +93,14 @@ https://www.youtube.com/watch?v=-eyhCTvrEtE&t=581s
 5.   I am taking a little pause, a break from acknowledging other scholars today so they can really focus on their work and study
 6.  Yoga practice
 
+## 7/12/2019
+Day 16:
+1.  Attended a virtual meetup with #sg_mom-is-wow with @Helena Barmer @Eileen @Nora @Tesin Dosch
+2.  Created #sg_mom-is-wow meetup poll
+3.  Corresponded on Slack
+4.  Read NYTimes Opinion article on The Racist History Behind Facial Recognition; When will we finally learn we cannot predict people’s character from their appearance?
+https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html?rref=collection%2Ftimestopic%2FArtificial%20Intelligence
+5. Watched a lesson on more vectorization examples by Andrew Ng
+6. Today's workout; burpees, jumping jacks, played dodge ball with my kiddo
+
+Happy shout out to @annaSWE @AbdElrhman @Stark @Helena Barmer @Evi @Eileen @Erika Yoon @Nora @Tesin Dosch @Sourav @nabhanpv @Khush @Shashi Gharti @Maria @Berenice @Ellyana Linden @Temitope Oladokun @Tushita Singh :bunny-stars::tada::cool-doge::hero:
