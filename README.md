@@ -104,3 +104,14 @@ https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html?rref=col
 6. Today's workout; burpees, jumping jacks, played dodge ball with my kiddo
 
 Happy shout out to @annaSWE @AbdElrhman @Stark @Helena Barmer @Evi @Eileen @Erika Yoon @Nora @Tesin Dosch @Sourav @nabhanpv @Khush @Shashi Gharti @Maria @Berenice @Ellyana Linden @Temitope Oladokun @Tushita Singh :bunny-stars::tada::cool-doge::hero:
+
+## 7/13/2019
+Day 17:
+1.  Corresponded on Slack
+2.  Read 2 articles on AI and its outlook; 1) 7 charts on the future of automation & 2) Will your next job be on Mars?
+https://www.weforum.org/agenda/2019/02/the-outlook-for-automation-and-manufacturing-jobs-in-seven-charts?fbclid=IwAR3FK2hf7LtulInUkHXLNLP6N9Qb9u0Bz4nIZGMyBLKwO-QKmqMEGYNDQ6g
+https://www.forbes.com/sites/louisefron/2019/04/26/will-your-next-job-be-on-mars/?fbclid=IwAR1iylUeYL7NPyBBEEgOPPaiYdY3e9wZ3J7UswcyXmU71hRgUvNHGm_-S2c#fe8118e27f2e
+3. Watched Automation: Last Week Tonight with John Oliver
+https://www.youtube.com/watch?v=_h1ooyyFkF0&app=desktop
+4. Today's workout:  Attended GX Fest; Core together, Power Sculpt, EDGE, Dancy Party
+Have a serene, restful Sat night!!  @Siddharth Srivastava @Helena Barmer @annaSWE @Erika Yoon @Mateusz @Oudarjya Sen Sarma @Stark @Berenice @Evi @Sourav
