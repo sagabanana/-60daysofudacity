@@ -115,3 +115,11 @@ https://www.forbes.com/sites/louisefron/2019/04/26/will-your-next-job-be-on-mars
 https://www.youtube.com/watch?v=_h1ooyyFkF0&app=desktop
 4. Today's workout:  Attended GX Fest; Core together, Power Sculpt, EDGE, Dancy Party
 Have a serene, restful Sat night!!  @Siddharth Srivastava @Helena Barmer @annaSWE @Erika Yoon @Mateusz @Oudarjya Sen Sarma @Stark @Berenice @Evi @Sourav
+
+## 7/14/2019
+Day 18:
+1.  Corresponded on Slack.  Thanks so much for @Stark @nabhanpv @Shashi Gharti @Eileen @Maria @Berenice @Evi @Nora @AbdElrhman @annaSWE @Sourav @Helena Barmer @Oudarjya Sen Sarma and many others for caring, remembering and encouraging me to study and empowering me to keep going and welcoming me to walk with you.   I cannot fathom the possibility, the random chance to cross paths with you and have you in my life.  You guys are truly amazing!!  You make my heart warm and happy. 
+2.  Watched intro to Neural Networks from Intro to Deep Learning with Pytorch; Udacity
+3. Lead Yoga practice/meditation and made Korean style veggie pancake for friends honoring who are vegetarian/vegan
+
+Wishing all a lovely Sunday night!!!!
