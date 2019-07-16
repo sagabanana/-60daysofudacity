@@ -123,3 +123,21 @@ Day 18:
 3. Lead Yoga practice/meditation and made Korean style veggie pancake for friends honoring who are vegetarian/vegan
 
 Wishing all a lovely Sunday night!!!!
+
+
+## 7/15/2019
+Day 19:
+1.  Watched webinar of Robert Wagner; practical use of secure & private AI and current challenges.  https://www.youtube.com/watch?v=9D_jxOMZmRI
+2.  Watched Introduction to Google Colab for Pytorch Users
+https://www.youtube.com/watch?v=Gupwr9QONDo&feature=youtu.be
+3.  Corresponded on Slack
+4.  Checked on next meeting date for #sg_mom-is-wow
+5. Listened to Steve Jobs's commencement speech at Standford 2005
+https://www.youtube.com/watch?time_continue=161&v=UF8uR6Z6KLc
+Highlights:  "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart. [...] No one wants to die. ... And yet death is the destination we all share. No one has ever escaped it. And that is as it should be, because Death is very likely the single best invention of Life. It is Life’s change agent. It clears out the old to make way for the new.  Right now the new is you, but someday not too long from now, you will gradually become the old and be cleared away. Sorry to be so dramatic, but it is quite true.
+
+Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma — which is living with the results of other people’s thinking.
+
+Don’t let the noise of others’ opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."
+
+Remembering all the amazing scholars!!  @annaSWE @Evi @nabhanpv @Sourav @Erika Yoon @Helena Barmer @Shashi Gharti @Maria @Berenice @Eileen @Nora @Nora @AbdElrhman @Khush @Ellyana Linden @Frida @Tesin Dosch @Oudarjya Sen Sarma @Temitope Oladokun
