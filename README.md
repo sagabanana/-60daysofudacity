@@ -142,3 +142,14 @@ Don’t let the noise of others’ opinions drown out your own inner voice. And 
 6. Today's workout: Walked on the track for 30 minutes
 
 Remembering all the amazing scholars!!  @annaSWE @Evi @nabhanpv @Sourav @Erika Yoon @Helena Barmer @Shashi Gharti @Maria @Berenice @Eileen @Nora @Nora @AbdElrhman @Khush @Ellyana Linden @Frida @Tesin Dosch @Oudarjya Sen Sarma @Temitope Oladokun
+
+
+## 7/16/2019
+Day 20:
+1.  Corresponded on Slack
+2.  Read Google Protest Leader Leaves, Warns of Company's Unchecked Power
+https://www.bloomberg.com/news/articles/2019-07-16/google-protest-leader-meredith-whittaker-is-leaving-the-company
+Highlights:  "Google, in the conventional pursuit of quarterly earnings, is gaining significant and largely unchecked power to impact our world (including in profoundly dangerous ways, such as accelerating the extraction of fossil fuels and the deployment of surveillance technology)," she wrote in a blog on Tuesday. "How this vast power is used — who benefits and who bears the risk — is one of the most urgent social and political (and yes, technical) questions of our time." [...] "People in the AI field who know the limitations of this tech, and the shaky foundation on which these grand claims are perched, need to speak up, loudly. The consequences of this kind of BS marketing are deadly (if profitable for a few)," Whittaker wrote on Twitter on Sunday."
+3.  Set up #sg_mom-is-wow 2nd virtual meeting
+4.   Yoga https://youtu.be/fc1JEzlmHA8
+Thank you for all your support and care!!  Cheers:celebrate::tada::launch::herb::bunny-stars:
