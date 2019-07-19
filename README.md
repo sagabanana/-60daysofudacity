@@ -153,3 +153,32 @@ Highlights:  "Google, in the conventional pursuit of quarterly earnings, is gain
 3.  Set up #sg_mom-is-wow 2nd virtual meeting
 4.   Yoga https://youtu.be/fc1JEzlmHA8
 Thank you for all your support and care!!  Cheers:celebrate::tada::launch::herb::bunny-stars:
+
+## 7/17/2019
+Day 21:
+1.  Corresponded on Slack
+2.  Thanks to @AbdElrhman, read "Do You Understand The Difference Between Deep Learning And Neural Networks?"
+https://www.linkedin.com/pulse/do-you-understand-difference-between-deep-learning-neural-marr/
+3.  Thanks to @Erika Yoon, watched "How to Replace MATLAB with Python Part 2" https://www.youtube.com/watch?v=kT4_tpwzV3k and revisited https://fortune.com/longform/inside-googles-civil-war/?utm_source=facebook.com&utm_medium=social&utm_campaign=social-share-article&utm_content=20190524&fbclid=IwAR2CoIMLKkfAiBvp4PvBoUAlQ8S7fg-bOGX9NuwPafNJdCpIiiVKnJGNA_0
+4.  Watched "Max Pooling in Conventional Neural Networks explained"  https://www.youtube.com/watch?v=ZjM_XQa5s6s&feature=youtu.be
+5.  Today's workout:  Cardio dance
+
+## 7/18-19/2019
+Day 22:
+1.  Corresponded on Slack
+2.  Organized and held #sg_mom-is-wow 2nd virtual meet up with @Helena Barmer @Shashi Gharti @Tesin Dosch @Evi @Marianna Janczak
+3.  Read about an app; FaceApp uses neural networks that encourage the unsuspecting public to freely give away their data to the concealed identity behind the app and its consequences and implications on why it's dangerous and how we can protect ourselves.  https://www.popularmechanics.com/technology/security/a28424868/faceapp-challenge-security-risks/?utm_medium=social-media&utm_source=facebook&utm_campaign=socialflowFBPOP&fbclid=IwAR1k8hVHNwIBmkprS9dRp7ZlHOFrK9E15ELmewljp-YS4nbXYj5DkZ3zrWU
+4. Reviewed https://www.kaggle.com/c/dogs-vs-cats/data; a website you can join and work on a project that creates an algorithm to distinguish dogs from cats
+5. Went to a local tech-management meetup in the place of exercising time.
+
+Day 23:
+1.  Corresponded on Slack
+2.  Created a summary of #sg_mom-is-wow documentation over past 2 virtual meetups and submitted to @Palak.Udacity @akshit.udacity
+3.  Read an article titled, "Curious About Consciousness? Ask the Self-Aware Machines" an interview with Hod Lipson, a roboticist who runs the Creative Machines Lab at Columbia University  https://www.quantamagazine.org/hod-lipson-is-building-self-aware-robots-20190711/?fbclid=IwAR2RQEd_AhW2tCNsAUdlJLk8zfw3IsTaLhuW-32cIOvrk_pkRJ3EsurMrLY
+4.  Exercise:  I am out of town helping a family member and timely I was reminded to be solid, calm and without fear to take care all things well.
+
+I am sharing a powerful quote by Thich Nhat Hanh as we are learning Deep Learning and beyond as a collective community.
+
+"I am inviting you to go deeper, to learn and to practice so that you become someone who has great capacity for being solid, calm and without fear, because our society needs people like you who have these qualities, and your children, our children, need people like you, in order to go on, in order to become solid, and calm and, without fear."
+
+Sending a "solid, calm and without fear presence" to @Helena Barmer @Stark @Berenice @Erika Yoon @Evi @annaSWE @Marianna Janczak @Maria @Tesin Dosch @Shashi Gharti @nabhanpv @Nora @Eileen @AbdElrhman @Ayesha Manzur and @Frida
