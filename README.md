@@ -182,3 +182,15 @@ I am sharing a powerful quote by Thich Nhat Hanh as we are learning Deep Learnin
 "I am inviting you to go deeper, to learn and to practice so that you become someone who has great capacity for being solid, calm and without fear, because our society needs people like you who have these qualities, and your children, our children, need people like you, in order to go on, in order to become solid, and calm and, without fear."
 
 Sending a "solid, calm and without fear presence" to @Helena Barmer @Stark @Berenice @Erika Yoon @Evi @annaSWE @Marianna Janczak @Maria @Tesin Dosch @Shashi Gharti @nabhanpv @Nora @Eileen @AbdElrhman @Ayesha Manzur and @Frida
+
+
+## 7/20/2019
+Day 24:
+1.  Corresponded on Slack
+2.  Attended a meetup on HCI, #sg_study_jahm with
+@Helena Barmer @Anju Mercian @Sourav  @Jess @Frida @Ateniola Oluwatobi Victor @Temitope Oladokun @Rupesh@susyjam @Stark @Shivam Raisharma @AnitaHad a lively and insightful conversation dealing with the real-life, everyday issues;  the generation difference we face today; how to approach non-face to face, non-physical interaction vs. go out and play with friends -- face to face physical interactions and interested in answering "what is the right thing to do as a parent?", Elon Musk's Neurallinks, Human-Computer Interactions ... etc.
+3.  Meetup with #sg_pytorch-robotics. It was great to e-meet you all @Jess @Mohammad Diab @Shashi Gharti @Joyce @Elena Kutanov@Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun @Sergio Valderrama @Dammy @Suraiya Khan @Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj @Joyce Obi @Sourav @Ayesha Manzur @Helena Barmer  @Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire @yasser albarbary@LauraT @Labiba and we brainstormed about robotics using a raspberry pi (or not), Microcontrollers, and big-picture AI :star-struck:
+4.  Watched Yoda of computer science, Donald Knuth - My advice to young people (93/97), thanks @andreiliphd for the great find!  https://www.youtube.com/watch?v=75Ju0eM5T2c
+5.  Exercise:  I am still out of town helping a family member and I hope to be able to practice yoga when I return back home later.
+Thanks a million, everyone whom I e-met and e-remet today and will meet tomorrow!!  Thinking of @annaSWE @Evi @AbdElrhman @Eileen @Nora @nabhanpv @iso. @sarang @Marianna Janczak @Berenice @Maria and many others!  I invite @yasser albarbary to this channel.  I leave one of my favorite thinkers, dreamers, visionaries, Bucky Fuller's words with you which reminded me during our conversation in the meetings which begs your undivided attention with care and thoughtful response as a student who is studying, developing, growing closely with technology for humanity:
+"Humanity is acquiring all the right technology for all the wrong reasons."
