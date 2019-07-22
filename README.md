@@ -194,3 +194,13 @@ Day 24:
 5.  Exercise:  I am still out of town helping a family member and I hope to be able to practice yoga when I return back home later.
 Thanks a million, everyone whom I e-met and e-remet today and will meet tomorrow!!  Thinking of @annaSWE @Evi @AbdElrhman @Eileen @Nora @nabhanpv @iso. @sarang @Marianna Janczak @Berenice @Maria and many others!  I invite @yasser albarbary to this channel.  I leave one of my favorite thinkers, dreamers, visionaries, Bucky Fuller's words with you which reminded me during our conversation in the meetings which begs your undivided attention with care and thoughtful response as a student who is studying, developing, growing closely with technology for humanity:
 "Humanity is acquiring all the right technology for all the wrong reasons."
+
+## 7/21/2019
+Day 25:
+1.  Corresponded on Slack
+2.  Thanks @Archit for writing Google Colab Notebook for Lesson 7 Federated Learning.  https://medium.com/secure-and-private-ai-writing-challenge/google-colab-notebook-for-lesson-7-federated-learning-21d479e09961
+3.  Read YOLO Object Detection with OpenCV   https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+4.  Read  https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/
+5.  Started reading "A Rookie's Guide to Raspberry Pi from Udemy  https://www.udemy.com/a-rookies-guide-to-raspberry-pi/  Thanks @Ayesha Manzur for the great find!!
+6.  Lead yoga practice
+Keep on keeping on and wishing you a lovely Sunday night!  @Helena Barmer @Stark @Evi @annaSWE @Shashi Gharti @nabhanpv @Berenice @Maria @Marianna Janczak @Erika Yoon @Sourav @Eileen @AbdElrhman @Ayesha Manzur @Nora @Frida @Tesin Dosch @Ellyana Linden @Sankalp Dayal @Samuela Anastasi @Jess @Temitope Oladokun @Siddharth Srivastava
