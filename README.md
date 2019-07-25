@@ -224,6 +224,8 @@ https://www.eventbrite.com/e/pytorch-summer-hackathon-in-menlo-park-registration
 3.  Started watching https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/lecture/7171238#overview
 4.  I want to read "Deep Learning by Ian Goodfellow"
 5.  No exercise
+
+
 Day 28:
 1.  Corresponded on Slack
 2.  Started to preparing for PyTorch Summer Hackathon by reading the official rule
