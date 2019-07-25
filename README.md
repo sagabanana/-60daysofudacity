@@ -237,3 +237,16 @@ https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-c
 5.  Went to a local meetup
 6. Exercise:  Went to the swimming pool and walked in the water with a friend
 Sending happy thoughts your way:bunny-stars::star2::torch_heart_big: @Helena Barmer @Stark @Evi @annaSWE @Shashi Gharti @Berenice @nabhanpv @Sourav @Sankalp Dayal @Samuela Anastasi @Maria @Erika Yoon @Eileen @AbdElrhman @Ayesha Manzur @Temitope Oladokun @Ellyana Linden @Tesin Dosch @Frida @Nora @iso. @Jess @Khush @Ebinbin Ajagun @Marianna Janczak @Muhammad Naufil @Nikita Sukhwal :bunny-stars::star2::torch_heart_big:
+
+
+## 7/25/2019
+Day 29:
+1.  Corresponded on Slack
+2.  Watched Introduction and Parts - Raspberry Pi and Python tutorials p.1:  https://www.youtube.com/watch?v=RpseX2ylEuw
+3.  Found 2 interesting study materials and saved them for later:
+:paperclip: What is NLP?  (An overview of the field of Natural Language Processing (NLP), including key areas, commonly used tools and Python libraries, debate within the field as more ML methods are adapted, and ethical issues.)  https://www.youtube.com/watch?v=cce8ntxP_XI&amp=&index=1
+:paperclip: Using Deep Learning to Classify a Reddit User by their Myers-Briggs Personality Type  https://medium.com/swlh/using-deep-learning-to-classify-a-reddit-user-by-their-myers-briggs-mbti-personality-type-6b1b163194d
+4.  Joined #sg_wonder_vision upon receiving an invitation by @Helena Barmer and attended a virtual meeting moderated by @Helena Barmer,  @Edgar Villegas shared his personal project via screen share and explained what/how/why he did -- helpful.  It was nice to have a meeting with @Mahak Bansal @Joyce Obi @Shashi Gharti @Seeratpal K. Jaura @Edgar Villegas @Pooja Vinod @Sourav @Shudipto Trafder@Alejandro Galindo @Arunn @Abhishek Tandon @Rupesh Purum @susyjam @Vamsi@Jess @medhagupta098 @James Korge
+5.  Hosted #sg_mom-is-wow 3rd virtual meeting.  It was really :awesome-ball::awesome-ball: :awesome-ball: :awesome-ball: AWESOME :awesome-ball: :awesome-ball: :awesome-ball: :awesome-ball: to have all of you, hear your experiences/concerns and thoughts/feelings, moms/mums and mom-to-be @Helena Barmer @Eileen @annaSWE @Tesin Dosch @Shashi Gharti @Laura A @Nora @Ayesha Manzur :clapping::clapping: :clapping: :clapping:
+6.  Exercise:  No exercise, instead I spent time making Mac and Cheese and baked Outrageous Brownies for my kiddo and his friend
+Sending deep gratitude, "Thank you!!!"  :thanks::thank-you: :thank-you:  @annaSWE @Helena Barmer @Shashi Gharti @Evi @Shashi Gharti @Stark @Erika Yoon @Temitope Oladokun @Tesin Dosch @Nora @Eileen @Ayesha Manzur @Maria @nabhanpv @Khush @Maria @Sourav @AbdElrhman @Samuela Anastasi @Sankalp Dayal @Berenice @Frida @Ellyana Linden @Jess @susyjam
