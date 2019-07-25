@@ -214,3 +214,24 @@ Day 26:
 3.  Read https://github.com/OpenMined/PySyft
 4.  Exercise:  Played racketball and walked 
 Thanks everyone who has been persistently encouraging me along with others I am refraining from tagging your name so you can get some rest.  I am ever grateful for your support.  Thank you!!:thanks: I am encouraging @annaSWE @AbdElrhman :celebrate::star-struck::star2::bunny-stars:
+
+
+## 7/23-24/2019
+Day 27:
+1.  Corresponded on Slack
+2.  Registered for the :torch_heart_changing_slow:PyTorch Summer Hackathon:torch_heart_changing_slow:
+https://www.eventbrite.com/e/pytorch-summer-hackathon-in-menlo-park-registration-63756668913
+3.  Started watching https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/lecture/7171238#overview
+4.  I want to read "Deep Learning by Ian Goodfellow"
+5.  No exercise
+Day 28:
+1.  Corresponded on Slack
+2.  Started to preparing for PyTorch Summer Hackathon by reading the official rule
+https://www.eventbrite.com/e/pytorch-summer-hackathon-in-menlo-park-registration-63756668913
+3.  Found and pocketed some readings: 1) “The Shortest Introduction To Deep Learning You Will Find On The Web” (https://medium.com/analytics-vidhya/the-shortest-introduction-to-deep-learning-you-will-find-on-the-web-25a9975bbe1d) :nerd_face:
+:torch_heart_big: 2) Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)
+https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f
+4.  Attended the :androidrobo:Robotics webinar :androidrobo: lead by @Temitope Oladokun :robot_face: #sg_pytorch-robotics and moderated by @Helena Barmer :robot_face: it was great to e-meet you @cibaca @Vipul Aggarwal @Mateusz @Jess  @Ayesha Manzur @Madalin Mamuleanu @Md. Mahedi Hasan Riday @susyjam@Sourav @Dmytro Martyniuk @Aren Stark @Ebinbin Ajagun @Marwa. :star-struck:
+5.  Went to a local meetup
+6. Exercise:  Went to the swimming pool and walked in the water with a friend
+Sending happy thoughts your way:bunny-stars::star2::torch_heart_big: @Helena Barmer @Stark @Evi @annaSWE @Shashi Gharti @Berenice @nabhanpv @Sourav @Sankalp Dayal @Samuela Anastasi @Maria @Erika Yoon @Eileen @AbdElrhman @Ayesha Manzur @Temitope Oladokun @Ellyana Linden @Tesin Dosch @Frida @Nora @iso. @Jess @Khush @Ebinbin Ajagun @Marianna Janczak @Muhammad Naufil @Nikita Sukhwal :bunny-stars::star2::torch_heart_big:
