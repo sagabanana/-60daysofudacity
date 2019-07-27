@@ -262,3 +262,17 @@ Highlights and my thoughts:  "Goncharov said those terms were so broad because h
 Highlights:  "A checkout-free future might be closer than you think, thanks to startups like Standard Cognition. The San Francisco-based company, whose patented platform uses cameras and algorithms to keep tabs on customers as they peruse store shelves, nabbed $40 million in series A funding last November and a partnership with Paltac in Japan that will see its autonomous checkout solution deployed in 3,000 stores. On the heels of this success, it’s secured $35 million in a series B round led by the EQT Ventures fund, with participation from existing investors Initialized Capital, CRV, and Y Combinator."
 5.  Exercise:  No exercise instead I used the time to do my laundry and helped others.  
 I want to express my deep gratitude, :thanks: "Thank you!!!" :thank-you: and :tada: I celebrate you!! :ddance: have a lovely and restful weekend!!! @annaSWE @Helena Barmer @Yemi @Erika Yoon @Shashi Gharti @Ayesha Manzur @Maria @Evi @Eileen @Stark @Berenice @nabhanpv @Sourav @AbdElrhman @Temitope Oladokun @susyjam @Ellyana Linden @Frida @Nora @Elena Kutanov @Jess @Samuela Anastasi @Tesin Dosch @Khush @Sankalp Dayal @Oudarjya Sen Sarma
+
+## 7/27/2019
+Day 31:
+1. Corresponded on Slack
+2. Wrote and submitted a summary of #sg_mom-is-wow 3rd virtual meetup to @Palak.Udacity and @akshit.udacity
+3.  :linked_paperclips: https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897
+4. Attended a virtual meetup, #sg_study_jahm along with scholars lead by @Helena Barmer @Anju Mercian and @Jess
+5. Attended #sg_pytorch-robotics virtual meetup with @Muhammad Naufil @Bhanujeet Choudhary @Elena Kutanov @Mohammad Diab @Dammy @Joyce Obi @Joyce @Marwa @Helena Barmer @Oudarjya Sen Sarma @Jess @Mateusz @qursaan @Suraiya Khan @Anju Mercian @Sourav @Ahmed MAGDY EISSA @Ayesha Manzur@Nancy Al Aswad @Droid @Laura A @susyjam @Harkirat @Vipul Aggarwal
+6. Watched how Snapchat and Instagram filters work; #computervision #privacy #data #lackofregulations #AR
+https://www.youtube.com/watch?v=Pc2aJxnmzh0
+7.  Read https://www.vox.com/2016/6/28/12046792/how-snapchat-filters-work
+8. Reviewed and learned about Adam Harvey, a researcher and artist based in Berlin focused on computer vision, privacy and surveillance and his projects;  https://ahprojects.com/
+9.  Exercise:  15 minutes of Yoga practice and meditation
+Sending happy summer sunshine to all of you!!  Thank you!!  Have a good rest!:sunny:
