@@ -276,3 +276,34 @@ https://www.youtube.com/watch?v=Pc2aJxnmzh0
 8. Reviewed and learned about Adam Harvey, a researcher and artist based in Berlin focused on computer vision, privacy and surveillance and his projects;  https://ahprojects.com/
 9.  Exercise:  15 minutes of Yoga practice and meditation
 Sending happy summer sunshine to all of you!!  Thank you!!  Have a good rest!:sunny:
+
+
+## 7/28/2019
+Day 32:  
+1.  Corresponded on Slack :slack:
+2.  Attended Deep Learning with Pytorch webinar with :torch_heart_big: @Salomon @Perez Ogayo @Vipul Aggarwal :torch_heart_big:
+3. :linked_paperclips: thanks to :clapping:@Ishan Arora :clapping:shared his recommendations: 
+https://www.youtube.com/watch?v=aircAruvnKk and 
+Python for Data analysis - https://lnkd.in/fvKavA2
+:arrow_right:Python Quick Reference sheet - https://lnkd.in/fa9wirz
+:arrow_right:Python Machine Learning Tutorial - https://lnkd.in/fteKpTY
+:arrow_right:All Cheat Sheets in one place - https://lnkd.in/fsmfZns
+:arrow_right:IBM FREE Cognitive classes for Data Science and Machine Learning - https://lnkd.in/fpp9QFT
+:arrow_right:Data Visualization - https://lnkd.in/f3FXCue
+:arrow_right:Getting Your First Data Science Job - https://lnkd.in/fQGHM2J
+:arrow_right:DATA SCIENCE INTERVIEW QUESTIONS - https://lnkd.in/feKZVhv
+:arrow_right:EXCEL EXPERT IN NO TIME - https://lnkd.in/fXC4dhj
+:arrow_right:10 Minutes to Pandas - https://lnkd.in/fpwaBCq
+:arrow_right:Numpy 100 Exercises - https://lnkd.in/fVX7Khk
+:arrow_right:Quick Reference Sheet (ML , DL & AI) - https://lnkd.in/fEVYMGD
+:arrow_right:Machine Learning Yearning By Andrew Ng - https://lnkd.in/f_E-_pf
+:arrow_right:MUST READ ARTICLES FOR DATA SCIENCE ENTHUSIAST - https://lnkd.in/fwPmurj
+:arrow_right:The Algorithms - https://lnkd.in/fTSDspH
+:arrow_right:Coursera Deep Learning Course Notes - https://lnkd.in/fwQRK_G
+:arrow_right:Commonly used Machine Learning Algorithms - https://lnkd.in/f8msx2T
+:arrow_right:DATA SCIENCE LEARNING PATH FOR COMPLETE BEGINNER - https://lnkd.in/f6NJJk9
+Also one more:
+DEEP LEARNING COLLECTION-https://github.com/ChristosChristofidis/awesome-deep-learning
+4.  Read the official rules for :torch_heart_big: PyTorch summer hackathon :torch_heart_big: rules and registered; created by @annaSWE in Google doc and we have a team; @annaSWE @Anju Mercian @Yu Sun and @erinSnPAI :bunny-cat-buddies: 
+5.  Exercise:  Went to the gym and attended a group fitness class called, "Half Time"; HIIT for an hour and after 30 mins for Yoga practice
+Have a good Sunday night!! :bunny-stars::full_moon: :grinning_face_with_star_eyes: :star: :bunny-stars:
