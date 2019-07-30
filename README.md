@@ -307,3 +307,25 @@ DEEP LEARNING COLLECTION-https://github.com/ChristosChristofidis/awesome-deep-le
 4.  Read the official rules for :torch_heart_big: PyTorch summer hackathon :torch_heart_big: rules and registered; created by @annaSWE in Google doc and we have a team; @annaSWE @Anju Mercian @Yu Sun and @erinSnPAI :bunny-cat-buddies: 
 5.  Exercise:  Went to the gym and attended a group fitness class called, "Half Time"; HIIT for an hour and after 30 mins for Yoga practice
 Have a good Sunday night!! :bunny-stars::full_moon: :grinning_face_with_star_eyes: :star: :bunny-stars:
+
+
+## 7/29/2019
+Day 33:
+1.  Corresponded on Slack
+2.  Attended today's #sg_wonder-vision meetup with @Helena Barmer @Shashank Jain @Sreekanth Zipsy @Abhishek Tandon @Deasy Indrawati  @Anshu Trivedi @Seeratpal K. Jaura @Pooja Vinod @Joyce Obi @James Korge @Arunn @Jess @Vamsi @nabhanpv
+@Droid @Sourav @Shashi Gharti then divided into a smaller group, Face Detection Group with @Seeratpal K. Jaura @Vamsi @Joyce Obi
+@Sourav @James Korge @Rupesh Purum @Anshu Trivedi @Md. Mahedi Hasan Riday and we discussed:
+-> Dataset to work on
+-> create a git repo so that everyone can find the links easily and contribute
+-> discuss preprocessing and postprocessing
+All these ideas will be discussed in detail in next meetup along with:
+-> discuss architecture and model
+-> dataset to work on
+links:
+http://vis-www.cs.umass.edu/fddb/
+https://pytorch.org/hub/pytorch_vision_fcn_resnet101/
+3.  :torch_heart_big:Preparing for PyTorch Summer Hackathon:torch_heart_big::
+https://www.eventbrite.com/e/pytorch-summer-hackathon-in-menlo-park-registration-63756668913
+together with @annaSWE @Anju Mercian and @Yu Sun
+4.  Exercise:  indoor walking for 20 mins
+Have a nice week everyone!!
