@@ -327,5 +327,5 @@ https://pytorch.org/hub/pytorch_vision_fcn_resnet101/
 3.  :torch_heart_big:Preparing for PyTorch Summer Hackathon:torch_heart_big::
 https://www.eventbrite.com/e/pytorch-summer-hackathon-in-menlo-park-registration-63756668913
 together with @annaSWE @Anju Mercian and @Yu Sun
-4.  Exercise:  indoor walking for 20 mins
+4.  Exercise:  indoor walking for 20 mins.
 Have a nice week everyone!!
