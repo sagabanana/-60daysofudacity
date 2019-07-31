@@ -342,3 +342,12 @@ Day 34:
 –– Vincent van Gogh (Source: Letter to Theo van Gogh, The Hague, 21-28 March 1883) 
 
 Sending Van Gogh's reflections to everyone everywhere!!
+
+## 7/31/2019
+Day 35:
+1.  Corresponded on Slack
+2.  Attended the webinar Introduction to Embedded Systems with @Madalin Mamuleanu from #sg_pytorch-robotics, moderated by :launch: amaaaaaaaaaaaaaaaaaaaazing :launch: @Helena Barmer:heart_eyes:goddess :princess::launch: A wonderful webinar prepared, presented and Q&A answered by @Madalin Mamuleanu  I send :hypnotoad: crazy :hypnotoad: hyponotoad :hypnotoad: vibe :hypnotoad: to all who attended the webinar @Helena Barmer @Bhadresh Savani @Ahmed MAGDY EISSA @Oudarjya Sen Sarma @Bearbear @Shashi Gharti @Jess@Ingus Terbets@cibaca @Sushil Ghimire @Suparna S Nair @Joyce Obi @Stark @Sourav@Dmytro Martyniuk @Temitope Oladokun @Sarah Majors  @Labiba @Vipul Aggarwal @Mateusz @susyjam @Aren Stark @Aisha Javed @Dammy @Shivam Raisharma 
+3.  Continued to preparing for :torch_heart_changing_slow:PyTorch Summer Hackathon:torch_heart_changing_slow: with @annaSWE @Yu Sun and @Anju Mercian 
+4.  Posted #sg_mom-is-wow a reminder meeting note on Slack and Facebook 
+5.  Exercise:  Went to the gym and did Turbo Kick for 30 mins and 20 mins yoga practice
+I also send :hypnotoad: one :hypnotoad: wild :hypnotoad: hyponotoad :hypnotoad: energy to all moms out in the world doing their best with everything they have and don't have, loving, caring and giving, always giving, and giving their best to their children, partners/spouses/families/friends/coworkers/strangers ... etc.  :beatingheart:Thank you, moms-mums :beatingheart: Tagging #sg_mom-is-wow group, :clapping::clapping::bunny-stars::bunny-stars:@Marianna Janczak@Nora @Shashi Gharti @Suraiya Khan@Tesin Dosch @AbdElrhman @akshit.udacity @Alaa Emad @Andy @Anita Goldpergel@annaSWE @Ayesha Manzur@Deepu @Daniela Cardona @Deasy Indrawati @Eileen @Helena Barmer @Palak.Udacity @Katrine Chow and @Krishna Chari:beatingheart::beatingheart: :beatingheart: 
