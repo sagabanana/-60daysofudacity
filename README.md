@@ -329,3 +329,16 @@ https://www.eventbrite.com/e/pytorch-summer-hackathon-in-menlo-park-registration
 together with @annaSWE @Anju Mercian and @Yu Sun
 4.  Exercise:  indoor walking for 20 mins.
 Have a nice week everyone!!
+
+
+## 7/30/2019
+Day 34:
+1.  Corresponded on Slack; made a poll for Face Detection Group with @Abhishek Tandon, #sg_wonder_vision 
+2.  Preparing for :torch_heart_big:PyTorch Summer Hackathon with @annaSWE @Anju Mercian and @Yu Sun :torch_heart_big:
+3.  :linked_paperclips: https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80, :thanks:thanks for the nice find :thank-you:@annaSWE :thank-you:
+4.  Exercise:  No exercise but instead I read some nice words during the day.  And one of them I will share here:  
+
+“It may well seem to you that the sun is shining more brightly and that everything has taken on a new charm. That, at any rate, is the inevitable consequence of true love, I believe, and it is a wonderful thing. And I also believe that those who hold that no one thinks clearly when in love are wrong, for it is at just that time that one thinks very clearly indeed and is more energetic than one was before. And love is something eternal, it may change in aspect but not in essence. And there is the same difference between someone who is in love and what he was like before as there is between a lamp that is lit and one that is not. The lamp was there all the time and it was a good lamp, but now it is giving light as well and that is its true function. And one has more peace of mind about many things and so is more likely to do better work.”
+–– Vincent van Gogh (Source: Letter to Theo van Gogh, The Hague, 21-28 March 1883) 
+
+Sending Van Gogh's reflections to everyone everywhere!!
