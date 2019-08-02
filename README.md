@@ -351,3 +351,12 @@ Day 35:
 4.  Posted #sg_mom-is-wow a reminder meeting note on Slack and Facebook 
 5.  Exercise:  Went to the gym and did Turbo Kick for 30 mins and 20 mins yoga practice
 I also send :hypnotoad: one :hypnotoad: wild :hypnotoad: hyponotoad :hypnotoad: energy to all moms out in the world doing their best with everything they have and don't have, loving, caring and giving, always giving, and giving their best to their children, partners/spouses/families/friends/coworkers/strangers ... etc.  :beatingheart:Thank you, moms-mums :beatingheart: Tagging #sg_mom-is-wow group, :clapping::clapping::bunny-stars::bunny-stars:@Marianna Janczak@Nora @Shashi Gharti @Suraiya Khan@Tesin Dosch @AbdElrhman @akshit.udacity @Alaa Emad @Andy @Anita Goldpergel@annaSWE @Ayesha Manzur@Deepu @Daniela Cardona @Deasy Indrawati @Eileen @Helena Barmer @Palak.Udacity @Katrine Chow and @Krishna Chari:beatingheart::beatingheart: :beatingheart: 
+
+
+## 8/1/2019
+Day 36:  
+1.  Corresponded on Slack
+2.  Attended #sg_wonder_vision meeting moderated by :star2:@Helena Barmer :hibiscus:along with :awesome-ball:@Shashi Gharti @Edgar Villegas @Cynthia-C. @Mahak Bansal @Sreekanth Zipsy @Pooja Vinod @Viper @Jess @Temitope Oladokun @Rupesh Purum @prantoran @Suraiya Khan @Vigneshwari @nabhanpv @James Korge @Anshu Trivedi :awesome-ball:
+3.  Attended #sg_mom-is-wow meeting with :fbheart:@Nora :fbheart:@Laura A :fbheart:@Ayesha Manzur :hibiscus:
+4.  Had :torch_heart_love:PyTorch Summer Hackathon:torch_heart_love: prep virtual meeting with @annaSWE @Yu Sun and @Anju Mercian and learned something valuable -- "sarcasm can hurt people's feeling".  What we consider as clever and funny could have a painful effect on some people and we want to be considerate of others -- we don't want to hurt other people's feeling.  Another one is there's no such thing as superior or inferior among people but everyone has their own talents and gifts and bring them to the table to share, to strengthen and to harmonize the entire picture.  We need each other.  We complement each other.  We must remember this and be the light of what we know.  Thanks @annaSWE for reminding us!! :thanks::beatingheart:
+5.  Exercise:  Yoga practice
