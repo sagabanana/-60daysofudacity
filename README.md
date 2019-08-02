@@ -360,3 +360,20 @@ Day 36:
 3.  Attended #sg_mom-is-wow meeting with :fbheart:@Nora :fbheart:@Laura A :fbheart:@Ayesha Manzur :hibiscus:
 4.  Had :torch_heart_love:PyTorch Summer Hackathon:torch_heart_love: prep virtual meeting with @annaSWE @Yu Sun and @Anju Mercian and learned something valuable -- "sarcasm can hurt people's feeling".  What we consider as clever and funny could have a painful effect on some people and we want to be considerate of others -- we don't want to hurt other people's feeling.  Another one is there's no such thing as superior or inferior among people but everyone has their own talents and gifts and bring them to the table to share, to strengthen and to harmonize the entire picture.  We need each other.  We complement each other.  We must remember this and be the light of what we know.  Thanks @annaSWE for reminding us!! :thanks::beatingheart:
 5.  Exercise:  Yoga practice
+
+
+## 8/2/2019
+Day 37:
+1.  Corresponded on Slack
+2.  Wrote and submitted #sg_mom-is-wow 4th virtual meeting to @akshit.udacity and @Palak.Udacity and updated about next week's meeting on the #sg_mom-is-wow channel
+3.  Continued preparing for :torch_heart_love: PyTorch Summer Hackathon with :fbheart: @annaSWE @Anju Mercian and @Yu Sun :fbheart:
+4.  Exercise:  No exercise but getting ready to go out of town; cleaning and organizing 
+Sending warm thoughts with Mary Oliver's words for all beings everywhere:  
+
+“Things take the time they take.
+Don't worry.
+How many roads did St. Augustine follow before he became St. Augustine?”
+
+― Mary Oliver
+
+:pray: :beatingheart: 
