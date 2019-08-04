@@ -377,3 +377,9 @@ How many roads did St. Augustine follow before he became St. Augustine?”
 ― Mary Oliver
 
 :pray: :beatingheart: 
+
+## 8/3/2019
+Day 38:  
+1.  Corresponded on Slack
+2.  Getting ready for PyTorch Summer Hackathon 
+3.  Exercise:  No exercise but traveling 
