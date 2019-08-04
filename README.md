@@ -383,3 +383,15 @@ Day 38:
 1.  Corresponded on Slack
 2.  Getting ready for PyTorch Summer Hackathon 
 3.  Exercise:  No exercise but traveling 
+
+
+## 8/4/2019
+Day: 39
+1.  Attended PATE ANALYSIS WEBINAR by @Ateniola Oluwatobi Victor where he
+discussed differential privacy and also how to approach and tackle the PATE analysis final project for the Differential privacy in Deep learning section.  Thanks so much, @Archit for tagging me and many others to attend the webinar to learn and thanks a million @Ateniola Oluwatobi Victor for preparing, making your time to explaining the difficult concept, "Thank You!!"  It was nice attending the webinar with you! @Mushrifah Hasan @Seeratpal K. Jaura @Jess@akshu18 @Sourav @Ivy @Raunak Sarada@Alexander Villasoto @Ayush Yadav @Gogulaanand R @Ebinbin Ajagun @cibaca @Nishant Bharat :clapping:
+
+2. Thanks, @Vipul Aggarwal for reminding me and spreading words to many channels to join @Salomon's Webinar on Deep learning by Pytorch part 2.  Thanks @Salomon for making time and help us to learn!!!  Excellent teacher!! :thank-you:
+
+3. Pinned and thanks @Yu Sun "BEST VIDEO intro to differential privacy This link is posted before but the 10,000 message limit is preventing me from finding the post. https://youtu.be/gI0wk1CXlsQ"  I will check it out!!
+
+4. Exercise:  Walked 30 mins  
