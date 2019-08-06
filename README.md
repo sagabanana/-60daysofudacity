@@ -402,3 +402,9 @@ Day 40:
 1.  Corresponded on Slack
 2.  Attended Superclass, Twilio SIGNAL Conference.  Saw and witnessed AI Cafe and AI noodle vending machine in Matreon Mall in San Francisco, CA
 3.  Exercise:  Walking
+
+## 8/6/2019
+Day 41: 
+1.  Corresponded on Slack
+2.  Attended on Twilio Conference and made Misty Robot's head move using JavaScript code
+3.  Exercise:  No exercise
