@@ -395,3 +395,10 @@ discussed differential privacy and also how to approach and tackle the PATE anal
 3. Pinned and thanks @Yu Sun "BEST VIDEO intro to differential privacy This link is posted before but the 10,000 message limit is preventing me from finding the post. https://youtu.be/gI0wk1CXlsQ"  I will check it out!!
 
 4. Exercise:  Walked 30 mins  
+
+
+## 8/5/2019
+Day 40:
+1.  Corresponded on Slack
+2.  Attended Superclass, Twilio SIGNAL Conference.  Saw and witnessed AI Cafe and AI noodle vending machine in Matreon Mall in San Francisco, CA
+3.  Exercise:  Walking
