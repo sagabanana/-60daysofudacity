@@ -408,3 +408,13 @@ Day 41:
 1.  Corresponded on Slack
 2.  Attended on Twilio Conference and made Misty Robot's head move using JavaScript code
 3.  Exercise:  No exercise
+
+
+## 8/7/2019
+Day 42:
+1.  Corresponded on Slack
+2.  Attending Twilio Conference
+3.  Watched https://www.youtube.com/watch?v=nbJ-2G2GXL0
+4.  Watched https://www.youtube.com/watch?v=SJDEOWLHYVo
+5.  Watched https://www.youtube.com/watch?v=mrRfpiAwad0
+6.  Exercise:  No exercise
