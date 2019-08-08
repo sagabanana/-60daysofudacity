@@ -418,3 +418,10 @@ Day 42:
 4.  Watched https://www.youtube.com/watch?v=SJDEOWLHYVo
 5.  Watched https://www.youtube.com/watch?v=mrRfpiAwad0
 6.  Exercise:  No exercise
+
+
+## 8/8/2019
+Day 42:
+1. Corresponded on Slack
+2. Attending PyTorch Summer Hackaton with @annaSWE at Facebook
+3. Exercise:  Hacking hard
