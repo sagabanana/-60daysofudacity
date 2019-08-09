@@ -425,3 +425,10 @@ Day 42:
 1. Corresponded on Slack
 2. Attending PyTorch Summer Hackaton with @annaSWE at Facebook
 3. Exercise:  Hacking hard
+
+
+## 8/9/2019
+Day 43:
+1.  Corresponded on Slack
+2.  Attending PyTorch Summer Hackathon working on a presentation, day 2
+3.  Exercise:  No exercise.  Hacking continues
