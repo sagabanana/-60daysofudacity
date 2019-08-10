@@ -432,3 +432,9 @@ Day 43:
 1.  Corresponded on Slack
 2.  Attending PyTorch Summer Hackathon working on a presentation, day 2
 3.  Exercise:  No exercise.  Hacking continues
+
+
+## 8/10/2019
+Day 44:
+1. Corresponded on Slack
+2. Wow! our team, MineTorch won 3rd place #Pytorchsummerhackathon19, incredible joy, and celebration, :star-struck::heart_eyes::star2:bringing a couple of Oculus and more home hacking last 2 days, Facebook in Menlo Park, CA. It's been an incredible, unreal experience meeting, engaging and creating with the brightest minds:brain::grinning::heartpulse::nerd_face:; researchers, developers, founders -- the creator of PyTorch and the entire team, the people whom I watch, read, study and talk about from a distance that is a virtual distance, are actually real people with bodies and minds, of course, thoughts and feelings, smiles. My kiddo, E, "Thank you and love", came with me, sat and hacking next to me the first day. Unreal but real. Thanks everyone for all the support! With deep love #DL #Pytorch #Facebook #Udacity #Inclusiondiversity #hackathon #ai #eucationforall #CA
