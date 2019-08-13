@@ -441,10 +441,17 @@ Day 44:
 
 
 ## 8/11/2019
+Day 45:
 1.  Corresponded on Slack
 2.  reading https://towardsdatascience.com/the-new-dawn-of-ai-federated-learning-8ccd9ed7fc3a
 
 
-8/12/2019
+## 8/12/2019
+Day 46:
 1.  Corresponded on Slack
 2.  Reading; https://medium.com/analytics-vidhya/the-shortest-introduction-to-deep-learning-you-will-find-on-the-web-25a9975bbe1d
+
+##  8/13/2019
+Day: 47:
+1.  Corresponded on Slack
+2.  Read about Secure & Private AI Blog competition:  https://docs.google.com/document/d/1kFrZXZSiCBGvOK1NZJ6L1CI7xrpg05fS5OO5-jxVkKo/edit#
