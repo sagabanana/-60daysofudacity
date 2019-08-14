@@ -455,3 +455,9 @@ Day 46:
 Day: 47:
 1.  Corresponded on Slack
 2.  Read about Secure & Private AI Blog competition:  https://docs.google.com/document/d/1kFrZXZSiCBGvOK1NZJ6L1CI7xrpg05fS5OO5-jxVkKo/edit#
+
+## 8/14/29019
+Day 48:
+1.  Corresponded on Slack
+2.  Posted a reminder note #sg_mom-is-wow, 6th meeting on Facebook and Slack 
+3.  Settling down from the trip :bunny-stars: and reviewing the paperwork from PyTorch Summer Hackathon:tensorflow_pytorch:
