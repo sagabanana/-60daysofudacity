@@ -467,3 +467,10 @@ Day 48:
 Day 49:
 1.  Corresponded on Slack
 2.  Hosted #sg_mom-is-wow 6th meeting and had an intimate nice discussion with @Ayesha Manzur :star-struck: Shared and reflected my experience doing the PyTorch Summer Hackathon and my observation visiting and seeing from outside in; the San Francisco Bay Area. 
+
+
+## 8/16/2019
+Day 50:
+1.  Corresponded on Slack
+2.  Wrote up and submitted #sg_mom-is-wow 6th meeting summary to @Palak.Udacity and @akshit.udacity 
+3.  Rescheduled #sg_mom-is-wow 7th meeting for next week
