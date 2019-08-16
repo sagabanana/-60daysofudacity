@@ -461,3 +461,9 @@ Day 48:
 1.  Corresponded on Slack
 2.  Posted a reminder note #sg_mom-is-wow, 6th meeting on Facebook and Slack 
 3.  Settling down from the trip :bunny-stars: and reviewing the paperwork from PyTorch Summer Hackathon:tensorflow_pytorch:
+
+
+## 8/15/2019
+Day 49:
+1.  Corresponded on Slack
+2.  Hosted #sg_mom-is-wow 6th meeting and had an intimate nice discussion with @Ayesha Manzur :star-struck: Shared and reflected my experience doing the PyTorch Summer Hackathon and my observation visiting and seeing from outside in; the San Francisco Bay Area. 
