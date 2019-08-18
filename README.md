@@ -481,3 +481,13 @@ Day 51:
 1.  Corresponded on Slack 
 2.  Read:
 https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9
+
+## 8/18/2019
+Day 52:  
+1. Corresponded on Slack
+2.  Read 3 articles:  
+1) https://bdtechtalks.com/2019/08/12/deepmind-losses-costs-of-ai/?fbclid=IwAR1C84yKbqlOhbVLSee255k-JdWBdOZFf-6pT3svS8JjscSsC80TdZkRflw
+2) "AI could account for as much as one-tenth of the world’s electricity use by 2025."   https://www.technologyreview.com/f/614056/ai-research-has-an-environment-climate-toll/?fbclid=IwAR25aJ_9xycJ_LhsJpMmyGdJnrWA49LQPUKU266myUQCJOyxC0dbshrqvoU
+3) "The computations required for deep learning research have been doubling every few months, resulting in an estimated 300,000x increase from 2012 to 2018 [2]. These computations have a surprisingly large carbon footprint [38]. Ironically, deep learning was inspired by the human brain, which is remarkably energy efficient. Moreover, the financial cost of the computations can make it difficult for academics, students, and researchers, in particular those from emerging economies, to engage in deep learning research. 
+This position paper advocates a practical solution by making efficiency an evaluation criterion for research alongside accuracy and related measures. In addition, we propose reporting the financial cost or "price tag" of developing, training, and running models to provide baselines for the investigation of increasingly efficient methods. Our goal is to make AI both greener and more inclusive---enabling any inspired undergraduate with a laptop to write high-quality research papers. Green AI is an emerging focus at the Allen Institute for AI.   "https://arxiv.org/abs/1907.10597?fbclid=IwAR1ATZcwUsRbefTOkkQQTHsuZDysVDIwAEYmHlAgvA6ekzA9G-MN2JaGFcg
+3.  Saved PyTorch learning resource, thanks to @AbdElrhman:  https://www.edureka.co/blog/pytorch-tutorial/
