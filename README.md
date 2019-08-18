@@ -474,3 +474,10 @@ Day 50:
 1.  Corresponded on Slack
 2.  Wrote up and submitted #sg_mom-is-wow 6th meeting summary to @Palak.Udacity and @akshit.udacity 
 3.  Rescheduled #sg_mom-is-wow 7th meeting for next week
+
+
+## 8/17/2019
+Day 51:
+1.  Corresponded on Slack 
+2.  Read:
+https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9
