@@ -498,3 +498,11 @@ Day 53:
 1.  Corresponded on Slack
 2.  Started to reviewing https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 3.  Studying watch and code
+
+
+## 8/20/2019
+Day 54:
+1.  Corresponded on Slack
+2.  Attending AMA
+3.  Studying Watch and Code
+4.  Corresponded an email with :torch_heart_big:PyTorch Summer Hackathon:torch_heart_big: and learned of starting PyTorch Medium channel via Facebook and asked to contribute for any contents as they are open for ideas
