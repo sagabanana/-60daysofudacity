@@ -506,3 +506,10 @@ Day 54:
 2.  Attending AMA
 3.  Studying Watch and Code
 4.  Corresponded an email with :torch_heart_big:PyTorch Summer Hackathon:torch_heart_big: and learned of starting PyTorch Medium channel via Facebook and asked to contribute for any contents as they are open for ideas
+
+
+## 8/21/2019
+Day 55: 
+1.  Corresponded on Slack
+2.  Posted #sg_mom-is-wow 7th meeting reminder for tomorrow on Slack and Facebook
+3.  Started reading an article pinned by @Jess and written by @annaSWE https://medium.com/data-science-bootcamp/pytorch-faq-code-snippets-for-udacity-deep-learning-scholarship-challenge-with-facebook-7b818c86911f
