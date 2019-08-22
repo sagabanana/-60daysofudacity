@@ -512,4 +512,4 @@ Day 54:
 Day 55: 
 1.  Corresponded on Slack
 2.  Posted #sg_mom-is-wow 7th meeting reminder for tomorrow on Slack and Facebook
-3.  Started reading an article pinned by @Jess and written by @annaSWE https://medium.com/data-science-bootcamp/pytorch-faq-code-snippets-for-udacity-deep-learning-scholarship-challenge-with-facebook-7b818c86911f
+3.  Started reading an article pinned by @Jess and written by @annaSWE,yet I've found "Key author and contributor @Yu Sun" in the article https://medium.com/data-science-bootcamp/pytorch-faq-code-snippets-for-udacity-deep-learning-scholarship-challenge-with-facebook-7b818c86911f
