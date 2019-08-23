@@ -513,3 +513,11 @@ Day 55:
 1.  Corresponded on Slack
 2.  Posted #sg_mom-is-wow 7th meeting reminder for tomorrow on Slack and Facebook
 3.  Started reading an article pinned by @Jess and written by @annaSWE,yet I've found "Key author and contributor @Yu Sun" in the article https://medium.com/data-science-bootcamp/pytorch-faq-code-snippets-for-udacity-deep-learning-scholarship-challenge-with-facebook-7b818c86911f
+
+
+## 8/22/2019
+Day 56
+1.  Corresponded on Slack
+2.  Held #sg_mom-is-wow meeting with @Ayesha Manzur 
+3.  Started reading: https://towardsdatascience.com/pytorch-autograd-understanding-the-heart-of-pytorchs-magic-2686cd94ec95
+4.  Read:  https://towardsdatascience.com/how-much-do-data-scientists-make-part-2-cb959a0d05f
