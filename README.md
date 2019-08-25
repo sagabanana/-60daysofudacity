@@ -521,3 +521,16 @@ Day 56
 2.  Held #sg_mom-is-wow meeting with @Ayesha Manzur 
 3.  Started reading: https://towardsdatascience.com/pytorch-autograd-understanding-the-heart-of-pytorchs-magic-2686cd94ec95
 4.  Read:  https://towardsdatascience.com/how-much-do-data-scientists-make-part-2-cb959a0d05f
+
+
+## 8/23/2019
+Day 57:
+1.  Corresponded on Slack
+2.  Started reading: 1)https://medium.com/@shaistha24/introduction-to-tensors-1-de7dded35fea & 2)https://medium.com/secure-and-private-ai-math-blogging-competition/statistics-fundamentals-using-python-libraries-e34da1a31060
+
+## 8/24/2019
+Day 58:
+1.  Corresponded on Slack
+2.  Read:  1)https://backreaction.blogspot.com/2019/08/you-will-probably-not-understand-this.html?fbclid=IwAR0R40kEVWB90Ng4DTDCSXXKbwNZRqda0bRhV-4QYhrEvT_lYVeEnc1o2Us 
+2) https://theconversation.com/how-to-make-good-arguments-at-school-and-everywhere-else-121305?fbclid=IwAR2T3lM3WGWCVcNPBh626ffyudDcbjAsWLsSCrqWdu47xX_5q7M9d4wZ8p0 
+3) https://medium.com/secure-and-private-ai-writing-challenge/keystone-project-federated-learning-encrypted-computation-for-mnist-ee09a90d6b08
