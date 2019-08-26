@@ -542,3 +542,20 @@ Day 58:
 Day 59:
 1.  Corresponded on Slack
 2.  Wrote and submitted #sg_mom-is-wow meeting summary to @Palak.Udacity and @akshit.udacity 
+
+
+## 8/26/2019
+:60daysofudacitybadge: Day 60 :60daysofudacitybadge:!!!
+1.  Corresponded on Slack
+2.  Wrote a possibly the last announcement for #sg_mom-is-wow
+Hi @AbdElrhman @Helena Barmer @Marianna Janczak @Shashi Gharti @akshit.udacity @Alaa Emad @Ana Hristian @Andy @Anita Goldpergel @annaSWE@Ayesha Manzur @Deepu @Daniela Cardona @Deasy Indrawati @Eileen @Joyce @Katrine Chow @Krishna Chari @Laura A @Nora @Palak.Udacity @Sandra Namugumya @Suraiya Khan @Tesin Dosch!
+
+The SPAI Challenge is coming to an end in a few days and my kiddo went back to school, the first day of middle school in the break of dawn.:sunrise:I am writing to reach out before you and I become a mere "missed connection".  Here is a proposal, purpose.  I envision what has yet to come in bullet points below.
+
+• To keep in touch with moms-mums/dads-moms-to-be here #sg_mom-is-wow.
+• To continue supporting one another; to help each other to be a better version of ourselves.
+• To do a project(s) together, rooting for each other, our kids and beyond.  Let's push and pull each other.
+• To share opportunity whether career, education, conference, scholarship ... etc.
+• ("to fill in the blank")
+
+If you are interested in continuing conversation, please leave your :in: :facebook: :twitter: Instagram, email ... etc below.  Thank you for everything!!  Cheers!
