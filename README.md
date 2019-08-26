@@ -536,3 +536,9 @@ Day 58:
 1)https://backreaction.blogspot.com/2019/08/you-will-probably-not-understand-this.html?fbclid=IwAR0R40kEVWB90Ng4DTDCSXXKbwNZRqda0bRhV-4QYhrEvT_lYVeEnc1o2Us  
 2) https://theconversation.com/how-to-make-good-arguments-at-school-and-everywhere-else-121305?fbclid=IwAR2T3lM3WGWCVcNPBh626ffyudDcbjAsWLsSCrqWdu47xX_5q7M9d4wZ8p0  
 3) https://medium.com/secure-and-private-ai-writing-challenge/keystone-project-federated-learning-encrypted-computation-for-mnist-ee09a90d6b08
+
+
+## 8/25/2019
+Day 59:
+1.  Corresponded on Slack
+2.  Wrote and submitted #sg_mom-is-wow meeting summary to @Palak.Udacity and @akshit.udacity 
